@@ -10,6 +10,6 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/OmkarKandale/count.svg" alt="Visit Count" title="Visitor count"/></td>
+    <td><img src="https://profile-counter.glitch.me/siddhrajm/count.svg" alt="Visit Count" title="Visitor count"/></td>
   </tr>
 </table>
